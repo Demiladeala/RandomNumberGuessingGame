@@ -1,0 +1,14 @@
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\bin\Debug\net6.0\RandomNumberGusessingGame.exe
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\bin\Debug\net6.0\RandomNumberGusessingGame.deps.json
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\bin\Debug\net6.0\RandomNumberGusessingGame.runtimeconfig.json
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\bin\Debug\net6.0\RandomNumberGusessingGame.dll
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\bin\Debug\net6.0\RandomNumberGusessingGame.pdb
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.AssemblyInfoInputs.cache
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.AssemblyInfo.cs
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.dll
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\refint\RandomNumberGusessingGame.dll
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.pdb
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\RandomNumberGusessingGame.genruntimeconfig.cache
+C:\Users\Bolaji\Documents\C#Projects\RandomNumberGusessingGame\RandomNumberGusessingGame\obj\Debug\net6.0\ref\RandomNumberGusessingGame.dll
